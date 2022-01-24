@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/amantodo/static/css/main.0bf58155.css",
+    "main.js": "/amantodo/static/js/main.9bc0a567.js",
+    "static/media/aman.jpg": "/amantodo/static/media/aman.26cf6dc669b68c49359c.jpg",
+    "index.html": "/amantodo/index.html",
+    "main.0bf58155.css.map": "/amantodo/static/css/main.0bf58155.css.map",
+    "main.9bc0a567.js.map": "/amantodo/static/js/main.9bc0a567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf58155.css",
+    "static/js/main.9bc0a567.js"
+  ]
+}
